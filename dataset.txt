@@ -1,0 +1,15 @@
+text,label
+"I can't sleep and my heart races constantly.",anxiety
+"I feel completely empty and don't want to get out of bed.",depression
+"I had a wonderful day with my family today.",normal
+"Work is piling up and I feel like I'm drowning in deadlines.",stress
+"Everything feels hopeless, and I don't see a point anymore.",depression
+"I'm so nervous about my presentation tomorrow.",anxiety
+"I enjoyed my coffee this morning, feeling peaceful.",normal
+"I can't focus on anything, my mind is constantly racing.",anxiety
+"I just feel sad all the time for no reason.",depression
+"I'm managing my tasks well and feeling productive.",normal
+"I can't stop crying and I feel so alone.",depression
+"My chest gets tight when I think about my to-do list.",anxiety
+"I just finished a great workout and feel energized.",normal
+"The pressure at work is unbearable right now.",stress
