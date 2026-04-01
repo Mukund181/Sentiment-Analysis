@@ -1,12 +1,18 @@
 # Mental Health Sentiment Analysis
 
-This project performs sentiment analysis on mental health related text using a BERT model. 
+This project uses a BERT model to analyze the sentiment of mental health related text, like social media posts or statements. It tries to predict whether the sentiment behind a piece of text is positive, neutral, or negative. 
 
-### Files included:
-- `Mental_Health_Analysis.ipynb`: The main jupyter notebook. Contains the code for training and running the sentiment analysis model. It loads the dataset, processes the text, and classifies it into different mental health sentiment categories.
-- `dataset.txt`: The text dataset used for the project. 
+### What's inside:
+- `Mental_Health_Analysis.ipynb`: The main jupyter notebook holding all the code. It loads the text data, processes it, and classifies the sentiment using a pre-trained BERT model from hugging face.
+- `dataset.txt`: the dataset with the text examples used for the project.
 
-### Usage
-1. Open up `Mental_Health_Analysis.ipynb` in jupyter notebook.
-2. Make sure you have libraries like `transformers`, `torch`, and `pandas` installed before running.
-3. Just run the cells from top to bottom.
+### Tech stack used:
+- Transformers (Hugging Face) for the BERT model
+- TensorFlow / PyTorch
+- Scikit-learn for preprocessing
+- Pandas & NumPy for data handling
+
+### How to use
+1. Make sure Python and jupyter are set up on your machine.
+2. Install the required libraries if you don't have them (`pip install transformers tensorflow torch scikit-learn pandas numpy`).
+3. Open `Mental_Health_Analysis.ipynb` and run the cells from top to bottom.
